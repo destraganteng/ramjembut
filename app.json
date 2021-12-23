@@ -3,7 +3,7 @@
   "description": "[RAM-UBOT] Adalah repo yang dapat digunakan di aplikasi telegram.",
   "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
   "keywords": ["telegram", "userbot", "RAM-UBOT", "modular", "python"],
-  "repository": "https://github.com/ramadhani892/RAM-DEPLOY",
+  "repository": "https://github.com/destraganteng/ramjembut",
   "stack": "container",
   "env": {
     "API_KEY": {
